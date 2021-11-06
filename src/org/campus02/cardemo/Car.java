@@ -1,3 +1,5 @@
+package org.campus02.cardemo;
+
 // public => access modifier
 // class => Schlüsselwort für Klasse
 // Car => Klassenname

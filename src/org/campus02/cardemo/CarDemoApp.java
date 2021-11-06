@@ -1,3 +1,7 @@
+package org.campus02.cardemo;
+
+import org.campus02.cardemo.Car;
+
 public class CarDemoApp {
     public static void main(String[] args) {
 
